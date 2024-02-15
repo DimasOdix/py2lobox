@@ -1,9 +1,8 @@
 °√ Termux Android "
-
-command from pkg install :
 ________________________
 > $ pkg install python2
 > $ pip2 install io
+> $ pip2 install tqdm
 > $ pip2 install scapy
 > $ pip2 install pyping
 > $ pip2 install synping
@@ -15,4 +14,3 @@ ________________________
 > $ pip2 install logging
 > $ pip2 install socket
 __________________________
-
