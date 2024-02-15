@@ -1,4 +1,6 @@
 °√ Termux Android "
+
+command from pkg install :
 ________________________
 > $ pkg install python2
 > $ pip2 install io
